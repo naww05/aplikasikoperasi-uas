@@ -15,17 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-1. Login
+
 ![image.png]( https://i.postimg.cc/1zfGbPsj/login.png )
 
-2. Deposit
 ![image.png]( https://i.postimg.cc/ry08sHw2/deposit.png )
 
-3. Transfer
 ![image.png]( https://i.postimg.cc/0NVtwxCk/transfer.png )
 
-4. Penarikan tunai
 ![image.png]( https://i.postimg.cc/0ydS3QTn/penarikan.png )
 
-5. Scaner
 ![image.png]( https://i.postimg.cc/xCkPNmC5/scan.png )
