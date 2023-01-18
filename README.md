@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 1. Login
-![image.png]( https://i.postimg.cc/1zfGbPsj/login.png 
+![image.png]( https://i.postimg.cc/1zfGbPsj/login.png )
 
 2. Deposit
 ![image.png]( https://i.postimg.cc/ry08sHw2/deposit.png )
