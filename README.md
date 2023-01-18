@@ -16,8 +16,12 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![image.png]( https://i.postimg.cc/1zfGbPsj/login.png )
+[![login.png](https://i.postimg.cc/CM7jMJm0/login.png)](https://postimg.cc/XXZZQfR1)
 
+[![transfer.png](https://i.postimg.cc/0NVtwxCk/transfer.png)](https://postimg.cc/XZyKRRhm)
 
+[![deposit.png](https://i.postimg.cc/ry08sHw2/deposit.png)](https://postimg.cc/grp9BNhg)
 
-![image.png]( https://i.postimg.cc/xCkPNmC5/scan.png )
+[![penarikan.png](https://i.postimg.cc/0ydS3QTn/penarikan.png)](https://postimg.cc/xX8qN0TN)
+
+[![scan.png](https://i.postimg.cc/5NwjNtxC/scan.png)](https://postimg.cc/zVGqx8Hz)
